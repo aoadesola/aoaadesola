@@ -1,5 +1,5 @@
-Adesola Abdullahi Oyewale
-aoadesola1@gmail.com
-aoadesola
-Front End Development and Design
-HTML, CSS, JavaScript and Design
+Full Name:      Adesola Abdullahi Oyewale
+Email address:  aoadesola1@gmail.com
+Slack Username: aoadesola
+Tracks:         Front End Development and Design
+Courses:        HTML, CSS, JavaScript and Design
